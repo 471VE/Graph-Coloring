@@ -28,47 +28,47 @@ Results for DSatur algorithm on benchmark graphs:
 
 |Graph name                |Number of colors|Coloring time (sec)|
 |--------------------------|----------------|-------------------|
-|graphs\anna.col           | 11             | 0                 |
-|graphs\fpsol2.i.1.col     | 65             | 0.01              |
-|graphs\games120.col       | 9              | 0.001             |
-|graphs\huck.col           | 11             | 0                 |
-|graphs\inithx.i.1.col     | 54             | 0.015             |
-|graphs\jean.col           | 10             | 0.001             |
-|graphs\latin_square_10.col| 130            | 0.232             |
-|graphs\le450_15b.col      | 17             | 0.005             |
-|graphs\le450_25a.col      | 25             | 0.01              |
-|graphs\le450_5a.col       | 10             | 0.003             |
-|graphs\miles1000.col      | 42             | 0.002             |
-|graphs\miles1500.col      | 73             | 0.003             |
-|graphs\mulsol.i.1.col     | 49             | 0.002             |
-|graphs\myciel3.col        | 4              | 0                 |
-|graphs\myciel7.col        | 8              | 0.002             |
-|graphs\queen11_11.col     | 14             | 0.001             |
-|graphs\queen5_5.col       | 5              | 0                 |
-|graphs\school1.col        | 17             | 0.013             |
-|graphs\school1_nsh.col    | 28             | 0.011             |
+|anna.col           | 11             | 0                 |
+|fpsol2.i.1.col     | 65             | 0.01              |
+|games120.col       | 9              | 0.001             |
+|huck.col           | 11             | 0                 |
+|inithx.i.1.col     | 54             | 0.015             |
+|jean.col           | 10             | 0.001             |
+|latin_square_10.col| 130            | 0.232             |
+|le450_15b.col      | 17             | 0.005             |
+|le450_25a.col      | 25             | 0.01              |
+|le450_5a.col       | 10             | 0.003             |
+|miles1000.col      | 42             | 0.002             |
+|miles1500.col      | 73             | 0.003             |
+|mulsol.i.1.col     | 49             | 0.002             |
+|myciel3.col        | 4              | 0                 |
+|myciel7.col        | 8              | 0.002             |
+|queen11_11.col     | 14             | 0.001             |
+|queen5_5.col       | 5              | 0                 |
+|school1.col        | 17             | 0.013             |
+|school1_nsh.col    | 28             | 0.011             |
 
 
 Results for greedy algorithms with smallest-degree-last-with-remove ordering strategy:
 
 |Graph name                |Number of colors|Coloring time (sec)
 |--------------------------|----------------|-------------------|
-|graphs\anna.col           | 11             | 0                 |             |
-|graphs\fpsol2.i.1.col     | 65             | 0.004             |             |
-|graphs\games120.col       | 9              | 0                 |             |
-|graphs\huck.col           | 11             | 0                 |             |
-|graphs\inithx.i.1.col     | 54             | 0.005             |             |
-|graphs\jean.col           | 10             | 0                 |             |
-|graphs\latin_square_10.col| 156            | 0.092             |             |
-|graphs\le450_15b.col      | 18             | 0.002             |             |
-|graphs\le450_25a.col      | 25             | 0.002             |             |
-|graphs\le450_5a.col       | 12             | 0.001             |             |
-|graphs\miles1000.col      | 42             | 0.001             |             |
-|graphs\miles1500.col      | 73             | 0                 |             |
-|graphs\mulsol.i.1.col     | 49             | 0.002             |             |
-|graphs\myciel3.col        | 4              | 0                 |             |
-|graphs\myciel7.col        | 8              | 0                 |             |
-|graphs\queen11_11.col     | 19             | 0                 |             |
-|graphs\queen5_5.col       | 7              | 0                 |             |
-|graphs\school1.col        | 16             | 0.003             |             |
-|graphs\school1_nsh.col    | 18             | 0.002             |             |
+|anna.col           | 11             | 0                 |             |
+|fpsol2.i.1.col     | 65             | 0.004             |             |
+|games120.col       | 9              | 0                 |             |
+|huck.col           | 11             | 0                 |             |
+|inithx.i.1.col     | 54             | 0.005             |             |
+|jean.col           | 10             | 0                 |             |
+|latin_square_10.col| 156            | 0.092             |             |
+|le450_15b.col      | 18             | 0.002             |             |
+|le450_25a.col      | 25             | 0.002             |             |
+|le450_5a.col       | 12             | 0.001             |             |
+|miles1000.col      | 42             | 0.001             |             |
+|miles1500.col      | 73             | 0                 |             |
+|mulsol.i.1.col     | 49             | 0.002             |             |
+|myciel3.col        | 4              | 0                 |             |
+|myciel7.col        | 8              | 0                 |             |
+|queen11_11.col     | 19             | 0                 |             |
+|queen5_5.col       | 7              | 0                 |             |
+|school1.col        | 16             | 0.003             |             |
+|school1_nsh.col    | 18             | 0.002             |             |
